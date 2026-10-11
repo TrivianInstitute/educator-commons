@@ -13,3 +13,7 @@ This formative guide supports conversation and revision. It is not a validated m
 A learner can reason well and still disagree with the facilitator or decline an AI service. Do not infer a durable change in skill from one artifact. Use the table to notice what the session invited; ask about any absent reasoning move before treating its absence as learner failure.
 
 **Feedback protocol:** Name one visible strength, ask one genuine question, and invite one revision. Avoid collecting identifying responses in a public repository. For carefully bounded non-identifying teaching accounts, see [Learning in Practice](https://github.com/TrivianInstitute/learning-in-practice).
+
+## Apply across the new pathways
+
+The [Commons transfer activity](commons-transfer.md) combines service understanding, evidence, authority, and embodied participation in one fictional case. Use its criteria to notice a learner's explanation and response to new information. Do not score physical practice, calmness, screen-time reduction, or agreement with an AI adoption decision. Preserve assistive technology and agreed language support when asking for an independent explanation.

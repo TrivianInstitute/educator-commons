@@ -4,12 +4,16 @@ Begin from the learner's question, the available time, and the authority each pa
 
 | Need | Source | Facilitation move |
 | --- | --- | --- |
+| Understand everyday AI services | [Four-lesson AI orientation](https://github.com/TrivianInstitute/interaction-literacy/tree/main/orientation) or [60-minute introduction](sessions/ai-everyday-life-60-min.md) | Separate mechanisms, data, uncertainty, and people affected |
+| Examine digital habits and embodied participation | [Six-unit embodied digital life course](https://github.com/TrivianInstitute/embodiment-commons/tree/main/courses/embodied-digital-life) or [60-minute introduction](sessions/embodied-digital-life-60-min.md) | Pair a bounded explanation with an environmental change and optional practice |
 | Understand an AI exchange | [Interaction map](https://github.com/TrivianInstitute/interaction-literacy/blob/main/exercises/interaction-map.md) | Separate the task, context, response, and decision |
 | Decide what an AI may do | [Delegation brief](https://github.com/TrivianInstitute/interaction-literacy/blob/main/exercises/delegation-brief.md) | Specify permission, stop point, and reviewer |
 | Check a consequential claim | [Claim ledger](https://github.com/TrivianInstitute/interaction-literacy/blob/main/exercises/claim-ledger.md) | Mark source, uncertainty, and next check |
 | Discuss an unresolved dilemma | [Casebook](https://github.com/TrivianInstitute/relational-ai-casebook) | Invite two defensible choices, then a revision |
 | Pause or shift attention | [Embodiment Commons](https://github.com/TrivianInstitute/embodiment-commons) | Offer as one optional path, never a proof of truth |
 | Facilitate with youth | [Youth pathway](https://github.com/TrivianInstitute/youth-interaction-literacy) | Match example and response mode to learners; follow local policies |
+
+Use the [Commons learning route](pathways/ai-literacy-and-embodied-digital-life.md) for a sequence across repositories. Its [transfer activity](assessment/commons-transfer.md) asks learners to explain and revise a decision under changed conditions, with their agreed access supports intact.
 
 ## Preparation checklist
 
