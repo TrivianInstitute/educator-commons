@@ -8,11 +8,15 @@ Educator Commons is the Trivian Institute's practical entry point for teaching a
 
 | If you have | Start here | Learners leave with |
 | --- | --- | --- |
+| 60 minutes | [Understanding AI in everyday life](sessions/ai-everyday-life-60-min.md) | A service map, an uncertainty, and a revised use decision |
+| 60 minutes | [Embodied digital life](sessions/embodied-digital-life-60-min.md) | A bounded explanation and a revisable digital-life plan |
 | 60 minutes | [Interaction Literacy session](sessions/interaction-literacy-60-min.md) | An interaction map and a bounded request |
 | 60 minutes | [Casebook session](sessions/casebook-60-min.md) | A reasoned decision and a revision after new information |
 | 15 minutes of planning | [Session planner](planning/session-planner.md) | A runnable plan with access and consent choices |
 
 Use [Start Here](START_HERE.md) to choose a source and [the adaptation guide](adaptation/access-and-choice.md) to make participation possible without disclosure, movement, public speech, or live AI access. [Reasoning evidence](assessment/reasoning-evidence.md) shows what to observe without scoring agreement.
+
+For a longer learning experience, use the [AI literacy and embodied digital life route](pathways/ai-literacy-and-embodied-digital-life.md). It connects the four-lesson AI orientation and six-unit embodied course with existing interaction modules, dialogue, and case reasoning. A [45-minute transfer activity](assessment/commons-transfer.md) brings these strands into one new fictional situation. Each one-hour introduction above samples its source pathway; it does not replace it.
 
 ## Across the Commons
 
